@@ -1,0 +1,10 @@
+scikit-learn
+tensorflow
+numpy
+pandas
+opencv-python
+matplotlib
+nengo
+pytorch
+spikingjelly
+keras
